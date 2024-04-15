@@ -2,7 +2,7 @@ import "./Landing.css"
 
 function Landing(){
     return(
-    <div className="login">
+    <div className="landing">
     <h2 className="heading">
     Welcome to PopX
     </h2>

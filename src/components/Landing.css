@@ -4,7 +4,7 @@ body{
     justify-content: center;
 }
 
-.login{
+.landing{
     height: 812px;
     width: 375px;
     top: 0;
@@ -37,7 +37,7 @@ opacity: 0.6;
 }
 .create{
     top: 669px;
-left: 20px;
+margin-left: 20px;
 width: 335px;
 height: 46px;
 background: #6C25FF 0% 0% no-repeat padding-box;
@@ -53,7 +53,7 @@ color: #FFFFFF;
 }
 .alreadycreated{
     margin-top: 10px;
-    left: 20px;
+    margin-left: 20px;
     width: 335px;
     height: 46px;
     text-align: center;
