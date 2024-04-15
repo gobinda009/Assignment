@@ -1,4 +1,5 @@
 import "./Landing.css"
+import { Link } from "react-router-dom";
 
 function Landing(){
     return(
@@ -9,12 +10,12 @@ function Landing(){
     <p className="intro">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     </p>
-    <button className="create">
+    <Link to='/create'><button className="create">
         Create Account
-    </button>
-    <button className="alreadycreated">
+    </button></Link>
+    <Link to='/login'><button className="alreadycreated">
     Already Registered? Login
-    </button>
+    </button></Link>
 
     </div>
 

@@ -68,7 +68,7 @@ padding-left: 5px;
     padding-left: 20px;
 }
 .form-group button{
-    left: 20px;
+    margin-right: 18px;
     width: 340px;
     height: 46px;
     background: #CBCBCB 0% 0% no-repeat padding-box;
@@ -77,7 +77,6 @@ padding-left: 5px;
     margin-top: 10px;
     border: none;
     color: white;
-    text-align: center;
     font: normal normal medium 16px/17px Rubik;
     letter-spacing: 0px;
     cursor: pointer;

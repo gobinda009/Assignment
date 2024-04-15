@@ -1,4 +1,5 @@
 import "./SignUp.css"
+import { Link } from "react-router-dom";
 
 function SignUp(){
     return(
@@ -38,7 +39,7 @@ function SignUp(){
         </div>
         
         
-        <button className="btn">Create Account</button>
+        <Link to='/profile'><button className="btn">Create Account</button></Link>
           </div>  
     );
 
