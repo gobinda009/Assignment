@@ -16,9 +16,7 @@ function Landing(){
     <Link to='/login'><button className="alreadycreated">
     Already Registered? Login
     </button></Link>
-
     </div>
-
     );
 }
 

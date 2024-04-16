@@ -6,7 +6,7 @@
 }
 .setting{
   height: 68px;
-  background: #FFFFFF 0% 0% no-repeat padding-box;
+  background: #fcf8f8 0% 0% no-repeat padding-box;
   padding-left: 15px;
   text-transform: capitalize;
   font: normal normal normal 18px/21px Rubik;
@@ -22,7 +22,7 @@
 }
 
 .marry{
-  width: 73px;
+  width: 90px;
   height: 18px;
   margin-top: 30px;
   font: normal normal medium 15px/19px Rubik;

@@ -25,6 +25,7 @@ function SignUp(){
           <input
             type="radio"
             value="yes"
+            name="agency"
           />
           Yes
         </div>
@@ -32,7 +33,8 @@ function SignUp(){
         <div className="radio">
           <input
             type="radio"
-            value="no" 
+            value="no"
+            name="agency" 
           />
           No
         </div>

@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 function Login(){
     return(
     <div className="login">
-        <h2 className="heading1">
+        <h2 className="heading5">
         Signin to your PopX account
         </h2>
-        <p className="detail">
+        <p className="detail1">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit,
         </p>
-        <div class="form-group">
+        <div class="form-group1">
         <label for="email">Email Address</label>
         <input type="email" id="email" name="email" placeholder="Enter email address"/>
         <label for="password">Password</label>
